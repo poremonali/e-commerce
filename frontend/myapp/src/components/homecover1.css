@@ -1,0 +1,58 @@
+.img-style {
+    width: 100%;
+    height: 300px;
+}
+
+.name_slogan_background {
+    border-radius: 50px;
+    background-image: linear-gradient(to top, rgba(234, 34, 67, 0.3), rgba(234, 34, 67, 0.8));
+}
+
+.slogan_para {
+    font-size: 30px;
+    text-shadow: 2px 2px;
+    color: rgb(200, 255, 0);
+    text-align: center;
+}
+
+#Name_shop {
+    font-family: "Sofia", sans-serif;
+    text-shadow: 2px 2px;
+    color: rgb(200, 255, 0);
+    text-align: center;
+}
+
+.break-text p {
+    word-wrap: break-word;
+}
+
+.wrapper {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+.wrapper img {
+    position: relative;
+    z-index: 0;
+}
+
+.wrapper .logo_slogan {
+    position: absolute;
+    z-index: 10;
+}
+.main_div
+{
+    text-align: center;
+}
+.image
+{
+    height:200px;
+}
+.card_body
+{
+    padding-top: 0px;
+
+}

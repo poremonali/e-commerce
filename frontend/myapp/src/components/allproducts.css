@@ -1,0 +1,16 @@
+.title-allproducts
+{
+    text-align: center;margin-bottom:10px
+}
+.main_div
+{
+    display: flex;justify-content: center;text-align: center
+}
+.img-style
+{
+    height:200px
+}
+button-style
+{
+    margin-bottom: 5px;margin-left:30px; width: fit-content;transition: all 5s 
+}

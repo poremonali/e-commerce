@@ -1,0 +1,15 @@
+.login_container
+        {
+            background-image:radial-gradient(rgba(34,23,240,0.4),rgba(134,23,40,0.2));
+            display: flex;
+            justify-content: center;
+            height: fit-content;
+            text-align: center;
+            border:1px solid black;
+            border-radius:20px 20px;
+         
+        }
+        .form_container
+        {
+            display:flex;width:300px;height:250px;background-color: antiquewhite;justify-content: center;margin-top: 50px;
+        }

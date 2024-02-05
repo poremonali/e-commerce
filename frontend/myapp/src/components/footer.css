@@ -1,0 +1,37 @@
+.container-div
+{
+    padding-top: 40px;
+}
+.unorderlist{
+     list-style-type: none;text-align:center
+}
+.followus
+{
+    color: aliceblue;padding-left: 50px;font-size: 1.2em;
+}
+.horizontalrow
+{
+    width: 90vw;color: white;margin:auto
+}
+.list-item
+{
+    text-decoration: none;color: black;
+}
+.list-item1
+{
+    text-decoration: none;color: black;
+    margin-top:0px;
+}
+#social_links li{
+
+    float:left;
+    letter-spacing: 20px;
+}
+.copyright
+{
+   font-weight: 700;
+}
+.div_horizontalow
+{
+    width:100%;
+}

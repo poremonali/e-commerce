@@ -1,0 +1,29 @@
+.container-div
+{
+    margin-top: auto;height:fit-content
+
+}
+.row-style
+{
+    padding-top: 20px;
+}
+.img-style
+{
+    width:100%;height: 200px;padding: 0px;
+}
+product-detail
+{
+    text-align: center;padding: 0px;
+}
+.second-col
+{
+    padding: 0px;
+}
+.form-style
+{
+    display:inline-flex;justify-content: center;
+}
+.input-style
+{
+    width: 50px;margin-right:3px
+}

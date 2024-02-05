@@ -1,0 +1,51 @@
+marquee
+{
+  color: orange;
+  font-weight: bold;
+}
+ul > li :hover{
+  color:rgba(241, 202, 29, 0.918);
+}
+.image_header
+{
+  width: 180px;margin-top:10px;border-radius: 10px;margin-left:10px;
+}
+#allproducts_active  li.active li.active a{
+  background-color: yellow;
+}
+.marque_row
+{
+    height: 30px;background-color: rgb(108, 77, 138);
+}
+.navbar_expand
+{
+    background-color: rgba(134,132,145,0.4);
+}
+.tog_nav
+{
+    margin-left:50px;
+}
+.coll_nav
+{
+    justify-content:end;
+}
+.listitem
+{
+    margin-right:10px;margin-top: 5px;
+}
+.second_nav
+{
+    display:flex;justify-content: center;background-color: rgba(134,132,145,0.2);text-align: center;
+}
+.second_ul
+{
+    list-style-type:none;flex-wrap: wrap;justify-content: center;
+}
+.cartshopping
+{
+    margin-top: 30px;padding-right: 10px;
+}
+.list_itemm
+{
+    margin-right:30px
+}
